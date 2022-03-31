@@ -1,2 +1,0 @@
-Built-in function is a type of function which we do not have to define or we can say they are pre-defined in comiplor or libraries.
-Examples:- print(),min(),len() etc.
