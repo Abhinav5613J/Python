@@ -4,8 +4,8 @@ dic={}
 lst=[]
 if(a>=3):
     for i in range(0,a):
-            x=input("Enter the value of key: ")
-            y=int(input("Enter the value: "))
+            x=input("Enter your key: ")
+            y=int(input("Enter your numeric value: "))
             dic.update({x:y})
     print("Your Dictionary is here:\n ",dic)
     time.sleep(1)
